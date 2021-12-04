@@ -1,6 +1,6 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Project: Visualizing Real World Data
+# Project: Visualizing Real World Data and Tableau
 
 ## Overview
 
@@ -18,6 +18,7 @@ The technical requirements for this project are as follows:
  - Create a Jupyter noteboosk to analyze the data
  - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose). Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
  - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
+ - (optional) Visualization with Tableau or Power BI 
 
 ## Necessary Deliverables
 

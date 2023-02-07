@@ -1,6 +1,6 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Project: Visualizing Real World Data and Tableau
+# Project: Visualizing Real World Data
 
 ## Overview
 
@@ -15,17 +15,17 @@ The goal of this project is to practice creating and interpreting different type
 The technical requirements for this project are as follows:
 
  - Select a dataset from a public source.
- - Create a Jupyter noteboosk to analyze the data
- - Using your data, create a minimum of one scatter plot, one histogram, one box plot and one bar graph (you can add more than one visualization of each type of you choose). Graphs should contain the proper labeling of the x and y axis when appropriate as well as a title for the graph.
+ - Create a Jupyter notebook to explore the data using simple visualizations  
  - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
- - (optional) Visualization with Tableau or Power BI 
+ - Create an intereactive visualization with Tableau, Power BI o similar
 
 ## Necessary Deliverables
 
 The following deliverables should be pushed to your Github repo for this chapter.
-
-- **A Jupyter notebook** containing your analysis and the code you used to obtain this analysis.
+- A **README** explaining the project
 - **A data folder** containing your data set.
+- **A Jupyter notebook** containing your analysis and the code you used to obtain this analysis.
+- A link to the **dashboard**
 
 ## Suggested Ways to Get Started
 

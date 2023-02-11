@@ -1,53 +1,24 @@
-![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
+<h1 style="font-size:3rem;color:black;"> README
 
-# Project: Visualizing Real World Data
 
-## Overview
 
-The goal of this project is to practice creating and interpreting different types of visualizations using real world data.
+![enjuto](https://static.vecteezy.com/system/resources/previews/000/411/954/non_2x/people-holding-icons-related-to-mental-health-vector.jpg)
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
 
----
+### RESUMEN
 
-## Technical Requirements
+En este proyecto presentaré un análisis en Power Bi, con datos estadísticos relacionado a salud mental en España. Segmentaré la información por Comunidad Autónoma, año y sexo. En este análisis pretendo demostrar el incremento de casos en distintos ámbitos relacionados a salud mental.
 
-The technical requirements for this project are as follows:
+### OBJETIVO
 
- - Select a dataset from a public source.
- - Create a Jupyter notebook to explore the data using simple visualizations  
- - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
- - Create an intereactive visualization with Tableau, Power BI o similar
+El objetivo principal del proyecto es demostrar si existe una relación entre la realidad que día a día observamos vs la realidad de los datos estadísticos que cada Comunidad Autónoma presenta. Para ello utilizaré los informes publicados por el Ministerio de Salud Pública de España e intentaré establecer el aumento de casos en los siguientes ámbitos:
+- Prevalencia declarada de trastornos mentales en población adulta
+- Mortalidad por suicidio
+- Reingresos urgentes psiquiátricos
+- DHD antidepresivos
 
-## Necessary Deliverables
+Una vez terminado el análisis de datos antes indicado, cruzaré la información con las cifras de psicólogos colegiados por Comunidad Autónoma e intentaré ver si existe relación entre el número total de colegiados vs la incidencia de problemas de salud mental por Comunidad. Dado que en el día a día vemos un aumento considerable de problemas de salud mental, los resultados esperados para este último punto, son que no exista una adecuada asignación de profesionales en cada comunidad. 
 
-The following deliverables should be pushed to your Github repo for this chapter.
-- A **README** explaining the project
-- **A data folder** containing your data set.
-- **A Jupyter notebook** containing your analysis and the code you used to obtain this analysis.
-- A link to the **dashboard**
 
-## Suggested Ways to Get Started
+![image](https://user-images.githubusercontent.com/113799116/218250984-df8f436c-facf-4849-bd14-95157bebbb4e.png)
 
-* **Find a data set to process** - a great place to start looking would be [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets), [Kaggle Data Sets](https://www.kaggle.com/datasets), or the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). A great new source is the [Google dataset search](https://toolbox.google.com/datasetsearch).
-* **Perform Preliminary Analysis** - use functions like `describe` to help guide you to the correct insight and data visualization. 
-* **Use the tools in your tool kit** - your knowledge of the different types of visualizations and when to use them should come in handy with this assignment.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectations, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!

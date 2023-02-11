@@ -1,53 +1,31 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Project: Visualizing Real World Data
+# LA CALIDAD EL AIRE EN BARCELONA
 
-## Overview
+### Proyecto para analizar si las actuaciones realizadas por el Ayuntamiento de Barcelona para mejorar la calidad del aire están siendo efectivas.
 
-The goal of this project is to practice creating and interpreting different types of visualizations using real world data.
+ En los últimos años, el Ayuntamiento de Barcelona ha hecho diferentes actuaciones como:
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. 
+- Creación del servicio de bicing, desde 17 marzo de 2007, y durante los últimos años ampliando la flota, incluyendo bicicletas eléctricas y llegando a todos los distritos. 
+- Subvenciones para la compra de bicicletas eléctricas
+- Establecimiento de las zonas de bajas emisiones, desde el 1 de enero de 2020
+- Las limitaciones de velocidad variable, desde el 15 enero 2009 en la C-31, C32 y nudo del Llobregat y desde 2011- 2014 en todos los accesos a Barcelona 
+- Las obras para reducir carriles de coche y ampliar carriles bici, desde mayo de 2020
+- La reducción de velocidad en vías urbanas de sentido único a 30 km/h , des del 11 de Mayo de 2021
+- La bajada de tarifas de transporte para fomentar su utilización – Desde septiembre de 2022
 
----
+Viendo la evolución de la contaminación se quiere comprobar si estas actuaciones han sido suficientes para cumplir su objetivo (entre otros) de reducir la contaminación.
 
-## Technical Requirements
+### Datasets
 
-The technical requirements for this project are as follows:
+- Estaciones en la ciudad de Barcelona (nombre, situación, contaminantes medidos)
+- Contaminantes medidos (código, nombre y unidad de medida)
+- Valores medidos desde junio de 2018 a enero de 2023 
 
- - Select a dataset from a public source.
- - Create a Jupyter notebook to explore the data using simple visualizations  
- - Explain what insight or information is inferred from these visualizations. The explanation should be in the notebook in markdown cells.
- - Create an intereactive visualization with Tableau, Power BI o similar
+### Fuente de datos 
 
-## Necessary Deliverables
+<https://opendata-ajuntament.barcelona.cat/data/es/organization/medi-ambient>
 
-The following deliverables should be pushed to your Github repo for this chapter.
-- A **README** explaining the project
-- **A data folder** containing your data set.
-- **A Jupyter notebook** containing your analysis and the code you used to obtain this analysis.
-- A link to the **dashboard**
+<https://ajuntament.barcelona.cat/qualitataire/es>
 
-## Suggested Ways to Get Started
-
-* **Find a data set to process** - a great place to start looking would be [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets), [Kaggle Data Sets](https://www.kaggle.com/datasets), or the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php). A great new source is the [Google dataset search](https://toolbox.google.com/datasetsearch).
-* **Perform Preliminary Analysis** - use functions like `describe` to help guide you to the correct insight and data visualization. 
-* **Use the tools in your tool kit** - your knowledge of the different types of visualizations and when to use them should come in handy with this assignment.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
-
-## Project Feedback + Evaluation
-
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
-
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
-
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
-
-* __Total__: Your instructors will give you a total score on your project between:
-
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectations, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+<https://ajuntament.barcelona.cat/estadistica/castella/Estadistiques_per_temes/Medi_urba/Medi_ambient/Qualitat_aire/index.htm>

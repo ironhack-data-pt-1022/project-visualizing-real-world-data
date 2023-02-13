@@ -1,6 +1,9 @@
 
 # LA CALIDAD EL AIRE EN BARCELONA
 
+![image](https://user-images.githubusercontent.com/113755985/218514549-abb9b2a8-816b-440a-9591-18ea489e8f8a.png)
+
+
 ### Proyecto para analizar si las actuaciones realizadas por el Ayuntamiento de Barcelona para mejorar la calidad del aire están siendo efectivas.
 
  En los últimos años, el Ayuntamiento de Barcelona ha hecho diferentes actuaciones como:

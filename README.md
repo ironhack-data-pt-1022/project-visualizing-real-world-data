@@ -13,6 +13,7 @@
 - Establecimiento de las zonas de bajas emisiones, desde el 1 de enero de 2020
 - Las limitaciones de velocidad variable, desde el 15 enero 2009 en la C-31, C32 y nudo del Llobregat y desde 2011- 2014 en todos los accesos a Barcelona 
 - Las obras para reducir carriles de coche y ampliar carriles bici, desde mayo de 2020
+- Ajudas para la compra de coches eléctricos, desde 10 de abril de 2021
 - La reducción de velocidad en vías urbanas de sentido único a 30 km/h , des del 11 de Mayo de 2021
 - La bajada de tarifas de transporte para fomentar su utilización – Desde septiembre de 2022
 
